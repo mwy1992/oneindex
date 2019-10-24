@@ -1,7 +1,7 @@
 <?php return array (
-  'site_name' => 'MYdmx',
-  'password' => 'a11.11.11',
-  'style' => 'nexmoe',
+  'site_name' => 'mwy1992的个人云盘',
+  'password' => '1433c0005d0992m!',
+  'style' => 'material',
   'onedrive_root' => '',
   'cache_type' => 'secache',
   'cache_expire_time' => 3600,
